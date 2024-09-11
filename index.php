@@ -1,5 +1,5 @@
 <?php
 
-echo '<h1>This is coming from code pipeline</h1>';
+echo '<h1>This is from code pipeline</h1>';
 
 
